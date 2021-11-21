@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongewareRehydrated", "SpongewareRehydrated\SpongewareRehydrated.csproj", "{A7963A35-9E9E-4E7E-85A7-F5105F87E915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongewareInjector", "..\..\Downloads\Spongeware-c83de89cab37c93ec0d95dabb67d762521a67241\SpongewareInjector\SpongewareInjector.csproj", "{2AF82727-B882-469C-BE64-088F793CA470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Release|x64.ActiveCfg = Release|x64
+		{A7963A35-9E9E-4E7E-85A7-F5105F87E915}.Release|x64.Build.0 = Release|x64
+		{2AF82727-B882-469C-BE64-088F793CA470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF82727-B882-469C-BE64-088F793CA470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF82727-B882-469C-BE64-088F793CA470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF82727-B882-469C-BE64-088F793CA470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF82727-B882-469C-BE64-088F793CA470}.Release|x64.ActiveCfg = Release|x64
+		{2AF82727-B882-469C-BE64-088F793CA470}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
