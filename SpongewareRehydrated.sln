@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongewareRehydrated", "SpongewareRehydrated\SpongewareRehydrated.csproj", "{A7963A35-9E9E-4E7E-85A7-F5105F87E915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongewareInjector", "..\..\Downloads\Spongeware-c83de89cab37c93ec0d95dabb67d762521a67241\SpongewareInjector\SpongewareInjector.csproj", "{2AF82727-B882-469C-BE64-088F793CA470}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongewareInjector", "SpongewareInjector\SpongewareInjector.csproj", "{2AF82727-B882-469C-BE64-088F793CA470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
