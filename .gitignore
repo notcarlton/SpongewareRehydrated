@@ -367,3 +367,6 @@ FodyWeavers.xsd
 
 # nuget packages
 packages/
+
+# vs code
+.vscode/
