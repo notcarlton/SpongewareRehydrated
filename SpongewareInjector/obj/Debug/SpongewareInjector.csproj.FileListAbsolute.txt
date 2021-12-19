@@ -1,0 +1,10 @@
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\bin\Debug\SpongewareInjector.exe.config
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\bin\Debug\SpongewareInjector.exe
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\bin\Debug\SpongewareInjector.pdb
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.csprojAssemblyReference.cache
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.MainForm.resources
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.Properties.Resources.resources
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.csproj.GenerateResource.cache
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.csproj.CoreCompileInputs.cache
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.exe
+C:\Users\LOUIS\source\repos\SpongewareInjector\SpongewareInjector\obj\Debug\SpongewareInjector.pdb
