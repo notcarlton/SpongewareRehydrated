@@ -371,6 +371,8 @@
     <ItemGroup>
         <Compile Include="Loader.cs" />
         <Compile Include="Main.cs" />
+        <Compile Include="Network\PacketSender.cs" />
+        <Compile Include="Network\Packets\Packet.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
